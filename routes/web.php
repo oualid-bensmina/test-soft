@@ -14,8 +14,8 @@ use App\Http\Controllers\Tachescontroller;
 |
 */
 
-// Route::get('/', function () {
-//     return 'welcome';
-// });
+Route::get('/', function () {
+    return 'welcome';
+});
 // Route::resource('taches',Tachescontroller::class);
 
