@@ -18,4 +18,3 @@ Route::get('/', function () {
     return 'welcome';
 });
 // Route::resource('taches',Tachescontroller::class);
-
