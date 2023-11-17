@@ -19,10 +19,10 @@ class Tachescontroller extends Controller
     /**
      * Show the form for creating a new resource.
      */
-    public function create()
-    {
-        return response()->json("success");
-    }
+    // public function create()
+    // {
+    //     return response()->json("success");
+    // }
 
     /**
      * Store a newly created resource in storage.
@@ -50,10 +50,10 @@ class Tachescontroller extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit(Tache $tache)
-    {
-        return response()->json("success");
-    }
+    // public function edit(Tache $tache)
+    // {
+    //     return response()->json("success");
+    // }
 
     /**
      * Update the specified resource in storage.
